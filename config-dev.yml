@@ -3,6 +3,6 @@ data:
   user:
     username: 337018466@qq.com
     password: xinao2015
-    version: 2
+    version: 3
 config: 
-  info: "master branch,config-dev.yml version=2"
+  info: "master branch,config-dev.yml version=3"

@@ -5,4 +5,4 @@ data:
     password: xinao2015
     version: 6
 config: 
-  info: "master branch,config-dev.yml version=7"
+  info: "master branch,config-dev.yml version=8"
